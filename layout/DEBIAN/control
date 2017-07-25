@@ -1,0 +1,9 @@
+Package: org.thebigboss.stillcapture
+Name: Still Capture Enabler 2
+Depends: mobilesubstrate, preferenceloader, firmware (>= 4.0), gsc.still-camera | gsc.front-facing-camera
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Takes still images during video recording.
+Author: PoomSmart
+Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/StillCapture/SC2@2x.png
