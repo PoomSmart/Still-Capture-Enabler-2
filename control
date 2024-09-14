@@ -1,0 +1,9 @@
+Package: com.ps.stillcaptureenabler
+Name: Still Capture Enabler (iPadOS 15+)
+Depends: mobilesubstrate, firmware (>= 15.0), gsc.ipad, gsc.still-camera | gsc.front-facing-camera
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Takes still images during video recording for iPadOS.
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
